@@ -1,4 +1,4 @@
-'''
+"""
 신고 결과 받기
 문제 설명
 문제 설명
@@ -65,7 +65,7 @@ id_list	report	k	result
 제한시간 안내
 정확성 테스트 : 10초
 
-'''
+"""
 
 def solution(id_list, report, k):
     answer = []
